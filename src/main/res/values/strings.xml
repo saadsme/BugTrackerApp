@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BugTracker</string>
+    <string-array name="status_array">
+        <item>Open</item>
+        <item>Resolved</item>
+    </string-array>
+</resources>

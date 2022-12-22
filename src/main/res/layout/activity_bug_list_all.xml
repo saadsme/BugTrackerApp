@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LayoutAll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFE4E4E4"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_greeting_all"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Hello! User"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/searchBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Search"
+        android:inputType="textPersonName" />
+
+    <ListView
+        android:id="@+id/itemsListViewAll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+    </ListView>
+
+</LinearLayout>
