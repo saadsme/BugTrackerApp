@@ -1,6 +1,7 @@
 # BugTrackerApp
 
-![bt-banner2](https://user-images.githubusercontent.com/75168549/213099755-08c41528-f182-4c17-8c8d-8720068da22c.png)
+![BugTracker-final](https://user-images.githubusercontent.com/75168549/213102496-0d1b0259-566d-426f-9efa-fb2263767fe5.png)
+
 
 
 - The Bug Tracker app is a mobile application for Android devices that allows users to report and track bugs and issues in software or other systems.
